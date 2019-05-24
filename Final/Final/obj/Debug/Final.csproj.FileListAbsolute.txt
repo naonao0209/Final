@@ -1,0 +1,10 @@
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\bin\Debug\Final.exe.config
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\bin\Debug\Final.exe
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\bin\Debug\Final.pdb
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\bin\Debug\Newtonsoft.Json.dll
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\bin\Debug\Newtonsoft.Json.xml
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\obj\Debug\Final.csproj.CopyComplete
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\obj\Debug\Final.exe
+C:\Users\naoya\OneDrive\Desktop\C#\Final\Final\obj\Debug\Final.pdb
